@@ -1,0 +1,20 @@
+*{
+  font-family: "Roboto";
+}
+html, body{
+  height: 100%;
+}
+body{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #000;
+}
+h1{
+  color: #fff;
+  font-size: 144px;
+  font-weight: 300;
+  border: 2px solid #f2d;
+  padding: 21px;
+  
+}
